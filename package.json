@@ -1,0 +1,7 @@
+{
+  "name": "2023",
+  "packageManager": "yarn@3.6.1",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
